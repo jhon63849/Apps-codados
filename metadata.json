@@ -1,0 +1,8 @@
+{
+  "name": "Escritura — Bíblia Sagrada",
+  "description": "Aplicativo editorial para leitura, busca e estudo da Bíblia Sagrada em português.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
